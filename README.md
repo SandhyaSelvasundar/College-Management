@@ -1,4 +1,4 @@
-# [CRUD-App-JS](https://just-fe-crud.netlify.app/)
+# [CRUD-App-JS](https://college-track.netlify.app/)
 * Developed CRUD App as a Student Record  
 * Used HTML, CSS, Javascript
 
